@@ -4,7 +4,7 @@ python-socketio==5.11.2
 eventlet==0.35.1
 SpeechRecognition==3.10.0
 transformers==4.40.1
-torch>=2.0.0  # Needed by transformers
+torch>=2.0.0
 pytesseract==0.3.10
 Pillow==10.3.0
 flask-cors==4.0.0
