@@ -1,0 +1,9 @@
+flask==3.0.3
+flask-socketio==5.3.6
+python-socketio==5.11.2
+eventlet==0.35.1
+speechrecognition==3.10.0
+transformers==4.40.1
+google-cloud-speech==2.24.1
+pytesseract==0.3.10
+Pillow==10.3.0
